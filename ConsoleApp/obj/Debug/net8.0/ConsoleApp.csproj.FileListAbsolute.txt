@@ -1,0 +1,15 @@
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/alinasapronova/Desktop/C#/Boots-Cats/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
